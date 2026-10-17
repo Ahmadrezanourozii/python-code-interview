@@ -1,0 +1,5 @@
+# files written when the snippets are run directly
+*.csv
+*.json
+notes.txt
+__pycache__/
